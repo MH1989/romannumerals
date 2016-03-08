@@ -1,0 +1,15 @@
+label {
+  display: block;
+  width:20px;
+
+}
+
+.jumbotron {
+  background-image: url("http://www.all-sweets.com/gradient-wallpaper/light-gradient/light-gradient-3-1440x900.jpg");
+  height: 200px;
+  margin-top: 20px;
+  text-align: center;
+  text-decoration: underline ;
+  background-position: center;
+  color: ##5E0243;
+  font-size:65px;
