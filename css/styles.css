@@ -1,15 +1,10 @@
-label {
-  display: block;
-  width:20px;
-
-}
 
 .jumbotron {
-  background-image: url("http://www.all-sweets.com/gradient-wallpaper/light-gradient/light-gradient-3-1440x900.jpg");
-  height: 200px;
+  background-image: url("http://images.fineartamerica.com/images-medium-large/colosseum-at-night-steve-bisgrove.jpg");
+  height: 150px;
   margin-top: 20px;
   text-align: center;
   text-decoration: underline ;
   background-position: center;
-  color: ##5E0243;
+  color: #F1ECFB;
   font-size:65px;
