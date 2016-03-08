@@ -7,6 +7,7 @@
 //etc...//
 var userInput = [];
 for (var i = 0; i < 3; i++) {
-  userInput = userInput + ["I"];
-  console.log(userInput);
+  userInput = userInput + ["I","V","X"];
+
 }
+console.log(userInput);
