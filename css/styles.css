@@ -4,7 +4,10 @@
   height: 150px;
   margin-top: 20px;
   text-align: center;
-  text-decoration: underline ;
   background-position: center;
   color: #F1ECFB;
-  font-size:65px;
+  font-size:25px;
+}
+label {
+  color:#7788AA;
+}
