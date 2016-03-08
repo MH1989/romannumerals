@@ -5,3 +5,8 @@
 //20 = XX//
 //3999 = MMMCMXCIX//
 //etc...//
+var userInput = [];
+for (var i = 0; i < 3; i++) {
+  userInput = userInput + ["I"];
+  console.log(userInput);
+}
